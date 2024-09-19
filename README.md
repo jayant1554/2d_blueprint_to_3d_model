@@ -2,8 +2,6 @@
 
 Convert your 2D architectural blueprints into stunning 3D models with ease!
 
-![3D Model Example](https://via.placeholder.com/600x300.png?text=3D+Model+Example)
-
 ## 🏆 Smart India Hackathon (SIH) Project
 
 This project was developed as part of the Smart India Hackathon (SIH), a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving.
@@ -56,17 +54,6 @@ We're proud to have developed this solution as part of SIH, contributing to the 
 ## 🛠️ Installation
 
 Detailed installation instructions can be found in our [Installation Guide](docs/INSTALL.md).
-
-## 🖥️ Usage
-
-1. Place your 2D blueprint image in the `input` directory.
-2. Run the conversion script:
-   ```
-   python convert.py input/your_blueprint.jpg
-   ```
-3. The generated 3D model will be saved in the `output` directory.
-
-For more advanced usage and options, check out our [User Guide](docs/USER_GUIDE.md).
 
 ## 🤝 Contributing
 
