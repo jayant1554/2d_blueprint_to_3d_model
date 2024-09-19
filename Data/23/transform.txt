@@ -1,0 +1,1 @@
+{"position": [5, 0, 0], "scale": [0.25, 0.25, 0.25], "rotation": [45, 45, 90], "shape": [16.240000000000002, 10.64, 1], "image_path": "Images/Examples/example3.png", "origin_path": "Data/6/", "data_path": "Data/23/"}
