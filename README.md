@@ -21,6 +21,9 @@ We're proud to have developed this solution as part of SIH, contributing to the 
 - **Customizable Output**: Generate 3D models in popular formats like OBJ, FBX, and GLTF
 - **Texture Mapping**: Automatically apply textures for a realistic finish
 - **Cloud Processing**: Leverage cloud resources for faster processing of large blueprints
+## 🌐 Online Demo
+
+Try our tool without installation! Visit our [Online Demo](demovideo) to see it in action. (Note: Replace with actual demo link when available)
 
 ## 🚀 Quick Start
 
