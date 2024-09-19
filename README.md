@@ -4,6 +4,18 @@ Convert your 2D architectural blueprints into stunning 3D models with ease!
 
 ![3D Model Example](https://via.placeholder.com/600x300.png?text=3D+Model+Example)
 
+## 🏆 Smart India Hackathon (SIH) Project
+
+This project was developed as part of the Smart India Hackathon (SIH), a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving.
+
+### Our SIH Journey
+
+- **Problem Statement**: We addressed the challenge of efficiently converting 2D architectural blueprints into 3D models, a task that traditionally requires significant time and expertise.
+- **Innovation**: Our solution leverages advanced computer vision and machine learning techniques to automate the conversion process, making it faster and more accessible.
+- **Impact**: This tool has the potential to revolutionize architectural visualization, urban planning, and construction processes across India.
+
+We're proud to have developed this solution as part of SIH, contributing to the technological advancement of our nation.
+
 ## 🌟 Features
 
 - **Accurate Conversion**: Transform 2D blueprints into precise 3D models
@@ -68,6 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to all contributors who have helped shape this project
 - Special thanks to [OpenCV](https://opencv.org/) and [Blender](https://www.blender.org/) for their amazing tools
+- Gratitude to the Smart India Hackathon organizers for providing this opportunity
 
 ## 📞 Contact
 
