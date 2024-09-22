@@ -23,7 +23,7 @@ We're proud to have developed this solution as part of SIH, contributing to the 
 - **Cloud Processing**: Leverage cloud resources for faster processing of large blueprints
 ## 🌐 Online Demo
 
-Try our tool without installation! Visit our [Online Demo](demovideo) to see it in action. (Note: Replace with actual demo link when available)
+Try our tool without installation! Visit our [Online Demo](demovideo) to see it in action.
 
 ## 🚀 Quick Start
 
